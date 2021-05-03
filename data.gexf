@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="0" title="cost" type="integer" />
+    </attributes>
+    <nodes>
+      
+        <node id="Darius" label="Darius">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Garen" label="Garen">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Heimerdinger" label="Heimerdinger">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Kayle" label="Kayle">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Kindred" label="Kindred">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Teemo" label="Teemo">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Viego" label="Viego">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Volibear" label="Volibear">
+          <attvalues>
+            <attvalue for="0" value="5" />
+          </attvalues>
+        </node>
+        
+        <node id="Aphelios" label="Aphelios">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Diana" label="Diana">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Draven" label="Draven">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Ivern" label="Ivern">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Jax" label="Jax">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Karma" label="Karma">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Mordekaiser" label="Mordekaiser">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Rell" label="Rell">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Ryze" label="Ryze">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Taric" label="Taric">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Vel'Koz" label="Vel'Koz">
+          <attvalues>
+            <attvalue for="0" value="4" />
+          </attvalues>
+        </node>
+        
+        <node id="Ashe" label="Ashe">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Katarina" label="Katarina">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Lee Sin" label="Lee Sin">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Lulu" label="Lulu">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Lux" label="Lux">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Morgana" label="Morgana">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Nidalee" label="Nidalee">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Nocturne" label="Nocturne">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Nunu" label="Nunu">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Pantheon" label="Pantheon">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Riven" label="Riven">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Yasuo" label="Yasuo">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Zyra" label="Zyra">
+          <attvalues>
+            <attvalue for="0" value="3" />
+          </attvalues>
+        </node>
+        
+        <node id="Brand" label="Brand">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Hecarim" label="Hecarim">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Kennen" label="Kennen">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Leblanc" label="Leblanc">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Nautilus" label="Nautilus">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Sejuani" label="Sejuani">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Sett" label="Sett">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Soraka" label="Soraka">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Syndra" label="Syndra">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Thresh" label="Thresh">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Trundle" label="Trundle">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Varus" label="Varus">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Viktor" label="Viktor">
+          <attvalues>
+            <attvalue for="0" value="2" />
+          </attvalues>
+        </node>
+        
+        <node id="Aatrox" label="Aatrox">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Gragas" label="Gragas">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Kalista" label="Kalista">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Kha'Zix" label="Kha'Zix">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Kled" label="Kled">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Leona" label="Leona">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Lissandra" label="Lissandra">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Poppy" label="Poppy">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Udyr" label="Udyr">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Vayne" label="Vayne">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Vladimir" label="Vladimir">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Warwick" label="Warwick">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+        <node id="Ziggs" label="Ziggs">
+          <attvalues>
+            <attvalue for="0" value="1" />
+          </attvalues>
+        </node>
+        
+    </nodes>
+    <edges>
+      
+        <edge id="0" source="Darius" target="Garen" />
+        
+        <edge id="1" source="Darius" target="Garen" />
+        
+        <edge id="2" source="Darius" target="Aphelios" />
+        
+        <edge id="3" source="Darius" target="Diana" />
+        
+        <edge id="4" source="Darius" target="Taric" />
+        
+        <edge id="5" source="Darius" target="Lee Sin" />
+        
+        <edge id="6" source="Darius" target="Morgana" />
+        
+        <edge id="7" source="Darius" target="Yasuo" />
+        
+        <edge id="8" source="Darius" target="Nautilus" />
+        
+        <edge id="9" source="Darius" target="Sejuani" />
+        
+        <edge id="10" source="Darius" target="Thresh" />
+        
+        <edge id="11" source="Darius" target="Leona" />
+        
+        <edge id="12" source="Darius" target="Poppy" />
+        
+        <edge id="13" source="Darius" target="Vladimir" />
+        
+        <edge id="14" source="Garen" target="Darius" />
+        
+        <edge id="15" source="Garen" target="Darius" />
+        
+        <edge id="16" source="Garen" target="Karma" />
+        
+        <edge id="17" source="Garen" target="Taric" />
+        
+        <edge id="18" source="Garen" target="Nidalee" />
+        
+        <edge id="19" source="Garen" target="Riven" />
+        
+        <edge id="20" source="Garen" target="Nautilus" />
+        
+        <edge id="21" source="Garen" target="Soraka" />
+        
+        <edge id="22" source="Garen" target="Thresh" />
+        
+        <edge id="23" source="Garen" target="Gragas" />
+        
+        <edge id="24" source="Garen" target="Kha'Zix" />
+        
+        <edge id="25" source="Garen" target="Leona" />
+        
+        <edge id="26" source="Garen" target="Poppy" />
+        
+        <edge id="27" source="Heimerdinger" target="Ivern" />
+        
+        <edge id="28" source="Heimerdinger" target="Ashe" />
+        
+        <edge id="29" source="Heimerdinger" target="Zyra" />
+        
+        <edge id="30" source="Heimerdinger" target="Sett" />
+        
+        <edge id="31" source="Heimerdinger" target="Soraka" />
+        
+        <edge id="32" source="Heimerdinger" target="Lissandra" />
+        
+        <edge id="33" source="Heimerdinger" target="Udyr" />
+        
+        <edge id="34" source="Heimerdinger" target="Vladimir" />
+        
+        <edge id="35" source="Kayle" target="Draven" />
+        
+        <edge id="36" source="Kayle" target="Mordekaiser" />
+        
+        <edge id="37" source="Kayle" target="Rell" />
+        
+        <edge id="38" source="Kayle" target="Taric" />
+        
+        <edge id="39" source="Kayle" target="Vel'Koz" />
+        
+        <edge id="40" source="Kayle" target="Ashe" />
+        
+        <edge id="41" source="Kayle" target="Lux" />
+        
+        <edge id="42" source="Kayle" target="Riven" />
+        
+        <edge id="43" source="Kayle" target="Yasuo" />
+        
+        <edge id="44" source="Kayle" target="Syndra" />
+        
+        <edge id="45" source="Kayle" target="Varus" />
+        
+        <edge id="46" source="Kayle" target="Aatrox" />
+        
+        <edge id="47" source="Kayle" target="Aatrox" />
+        
+        <edge id="48" source="Kayle" target="Kalista" />
+        
+        <edge id="49" source="Kayle" target="Leona" />
+        
+        <edge id="50" source="Kindred" target="Aphelios" />
+        
+        <edge id="51" source="Kindred" target="Ryze" />
+        
+        <edge id="52" source="Kindred" target="Ashe" />
+        
+        <edge id="53" source="Kindred" target="Lulu" />
+        
+        <edge id="54" source="Kindred" target="Lux" />
+        
+        <edge id="55" source="Kindred" target="Morgana" />
+        
+        <edge id="56" source="Kindred" target="Varus" />
+        
+        <edge id="57" source="Kindred" target="Vayne" />
+        
+        <edge id="58" source="Teemo" target="Ivern" />
+        
+        <edge id="59" source="Teemo" target="Karma" />
+        
+        <edge id="60" source="Teemo" target="Lulu" />
+        
+        <edge id="61" source="Teemo" target="Kennen" />
+        
+        <edge id="62" source="Teemo" target="Syndra" />
+        
+        <edge id="63" source="Teemo" target="Kled" />
+        
+        <edge id="64" source="Teemo" target="Poppy" />
+        
+        <edge id="65" source="Teemo" target="Ziggs" />
+        
+        <edge id="66" source="Viego" target="Diana" />
+        
+        <edge id="67" source="Viego" target="Draven" />
+        
+        <edge id="68" source="Viego" target="Jax" />
+        
+        <edge id="69" source="Viego" target="Ryze" />
+        
+        <edge id="70" source="Viego" target="Katarina" />
+        
+        <edge id="71" source="Viego" target="Katarina" />
+        
+        <edge id="72" source="Viego" target="Lee Sin" />
+        
+        <edge id="73" source="Viego" target="Nidalee" />
+        
+        <edge id="74" source="Viego" target="Nocturne" />
+        
+        <edge id="75" source="Viego" target="Pantheon" />
+        
+        <edge id="76" source="Viego" target="Hecarim" />
+        
+        <edge id="77" source="Viego" target="Kennen" />
+        
+        <edge id="78" source="Viego" target="Leblanc" />
+        
+        <edge id="79" source="Viego" target="Thresh" />
+        
+        <edge id="80" source="Viego" target="Trundle" />
+        
+        <edge id="81" source="Viego" target="Viktor" />
+        
+        <edge id="82" source="Viego" target="Kha'Zix" />
+        
+        <edge id="83" source="Viego" target="Udyr" />
+        
+        <edge id="84" source="Viego" target="Vayne" />
+        
+        <edge id="85" source="Viego" target="Warwick" />
+        
+        <edge id="86" source="Volibear" target="Ivern" />
+        
+        <edge id="87" source="Volibear" target="Nocturne" />
+        
+        <edge id="88" source="Volibear" target="Nunu" />
+        
+        <edge id="89" source="Volibear" target="Sett" />
+        
+        <edge id="90" source="Volibear" target="Gragas" />
+        
+        <edge id="91" source="Volibear" target="Warwick" />
+        
+        <edge id="92" source="Aphelios" target="Darius" />
+        
+        <edge id="93" source="Aphelios" target="Kindred" />
+        
+        <edge id="94" source="Aphelios" target="Diana" />
+        
+        <edge id="95" source="Aphelios" target="Ashe" />
+        
+        <edge id="96" source="Aphelios" target="Lee Sin" />
+        
+        <edge id="97" source="Aphelios" target="Morgana" />
+        
+        <edge id="98" source="Aphelios" target="Yasuo" />
+        
+        <edge id="99" source="Aphelios" target="Sejuani" />
+        
+        <edge id="100" source="Aphelios" target="Varus" />
+        
+        <edge id="101" source="Aphelios" target="Vayne" />
+        
+        <edge id="102" source="Aphelios" target="Vladimir" />
+        
+        <edge id="103" source="Diana" target="Darius" />
+        
+        <edge id="104" source="Diana" target="Viego" />
+        
+        <edge id="105" source="Diana" target="Aphelios" />
+        
+        <edge id="106" source="Diana" target="Mordekaiser" />
+        
+        <edge id="107" source="Diana" target="Katarina" />
+        
+        <edge id="108" source="Diana" target="Lee Sin" />
+        
+        <edge id="109" source="Diana" target="Morgana" />
+        
+        <edge id="110" source="Diana" target="Nocturne" />
+        
+        <edge id="111" source="Diana" target="Pantheon" />
+        
+        <edge id="112" source="Diana" target="Yasuo" />
+        
+        <edge id="113" source="Diana" target="Leblanc" />
+        
+        <edge id="114" source="Diana" target="Sejuani" />
+        
+        <edge id="115" source="Diana" target="Trundle" />
+        
+        <edge id="116" source="Diana" target="Kha'Zix" />
+        
+        <edge id="117" source="Diana" target="Vladimir" />
+        
+        <edge id="118" source="Draven" target="Kayle" />
+        
+        <edge id="119" source="Draven" target="Viego" />
+        
+        <edge id="120" source="Draven" target="Mordekaiser" />
+        
+        <edge id="121" source="Draven" target="Ryze" />
+        
+        <edge id="122" source="Draven" target="Katarina" />
+        
+        <edge id="123" source="Draven" target="Riven" />
+        
+        <edge id="124" source="Draven" target="Yasuo" />
+        
+        <edge id="125" source="Draven" target="Hecarim" />
+        
+        <edge id="126" source="Draven" target="Thresh" />
+        
+        <edge id="127" source="Draven" target="Viktor" />
+        
+        <edge id="128" source="Draven" target="Aatrox" />
+        
+        <edge id="129" source="Draven" target="Kalista" />
+        
+        <edge id="130" source="Draven" target="Vayne" />
+        
+        <edge id="131" source="Draven" target="Warwick" />
+        
+        <edge id="132" source="Ivern" target="Heimerdinger" />
+        
+        <edge id="133" source="Ivern" target="Teemo" />
+        
+        <edge id="134" source="Ivern" target="Volibear" />
+        
+        <edge id="135" source="Ivern" target="Karma" />
+        
+        <edge id="136" source="Ivern" target="Nocturne" />
+        
+        <edge id="137" source="Ivern" target="Soraka" />
+        
+        <edge id="138" source="Ivern" target="Syndra" />
+        
+        <edge id="139" source="Ivern" target="Lissandra" />
+        
+        <edge id="140" source="Ivern" target="Vladimir" />
+        
+        <edge id="141" source="Jax" target="Viego" />
+        
+        <edge id="142" source="Jax" target="Rell" />
+        
+        <edge id="143" source="Jax" target="Lee Sin" />
+        
+        <edge id="144" source="Jax" target="Nidalee" />
+        
+        <edge id="145" source="Jax" target="Pantheon" />
+        
+        <edge id="146" source="Jax" target="Kennen" />
+        
+        <edge id="147" source="Jax" target="Nautilus" />
+        
+        <edge id="148" source="Jax" target="Trundle" />
+        
+        <edge id="149" source="Jax" target="Udyr" />
+        
+        <edge id="150" source="Karma" target="Garen" />
+        
+        <edge id="151" source="Karma" target="Teemo" />
+        
+        <edge id="152" source="Karma" target="Ivern" />
+        
+        <edge id="153" source="Karma" target="Nidalee" />
+        
+        <edge id="154" source="Karma" target="Riven" />
+        
+        <edge id="155" source="Karma" target="Soraka" />
+        
+        <edge id="156" source="Karma" target="Syndra" />
+        
+        <edge id="157" source="Karma" target="Gragas" />
+        
+        <edge id="158" source="Karma" target="Kha'Zix" />
+        
+        <edge id="159" source="Mordekaiser" target="Kayle" />
+        
+        <edge id="160" source="Mordekaiser" target="Diana" />
+        
+        <edge id="161" source="Mordekaiser" target="Draven" />
+        
+        <edge id="162" source="Mordekaiser" target="Pantheon" />
+        
+        <edge id="163" source="Mordekaiser" target="Riven" />
+        
+        <edge id="164" source="Mordekaiser" target="Yasuo" />
+        
+        <edge id="165" source="Mordekaiser" target="Trundle" />
+        
+        <edge id="166" source="Mordekaiser" target="Aatrox" />
+        
+        <edge id="167" source="Mordekaiser" target="Kalista" />
+        
+        <edge id="168" source="Rell" target="Kayle" />
+        
+        <edge id="169" source="Rell" target="Jax" />
+        
+        <edge id="170" source="Rell" target="Vel'Koz" />
+        
+        <edge id="171" source="Rell" target="Lux" />
+        
+        <edge id="172" source="Rell" target="Hecarim" />
+        
+        <edge id="173" source="Rell" target="Nautilus" />
+        
+        <edge id="174" source="Rell" target="Sejuani" />
+        
+        <edge id="175" source="Rell" target="Syndra" />
+        
+        <edge id="176" source="Rell" target="Varus" />
+        
+        <edge id="177" source="Rell" target="Aatrox" />
+        
+        <edge id="178" source="Rell" target="Kled" />
+        
+        <edge id="179" source="Rell" target="Leona" />
+        
+        <edge id="180" source="Ryze" target="Kindred" />
+        
+        <edge id="181" source="Ryze" target="Viego" />
+        
+        <edge id="182" source="Ryze" target="Draven" />
+        
+        <edge id="183" source="Ryze" target="Katarina" />
+        
+        <edge id="184" source="Ryze" target="Lulu" />
+        
+        <edge id="185" source="Ryze" target="Lux" />
+        
+        <edge id="186" source="Ryze" target="Morgana" />
+        
+        <edge id="187" source="Ryze" target="Nunu" />
+        
+        <edge id="188" source="Ryze" target="Brand" />
+        
+        <edge id="189" source="Ryze" target="Hecarim" />
+        
+        <edge id="190" source="Ryze" target="Thresh" />
+        
+        <edge id="191" source="Ryze" target="Viktor" />
+        
+        <edge id="192" source="Ryze" target="Kalista" />
+        
+        <edge id="193" source="Ryze" target="Vayne" />
+        
+        <edge id="194" source="Ryze" target="Warwick" />
+        
+        <edge id="195" source="Taric" target="Darius" />
+        
+        <edge id="196" source="Taric" target="Garen" />
+        
+        <edge id="197" source="Taric" target="Kayle" />
+        
+        <edge id="198" source="Taric" target="Ashe" />
+        
+        <edge id="199" source="Taric" target="Nautilus" />
+        
+        <edge id="200" source="Taric" target="Thresh" />
+        
+        <edge id="201" source="Taric" target="Leona" />
+        
+        <edge id="202" source="Taric" target="Poppy" />
+        
+        <edge id="203" source="Vel'Koz" target="Kayle" />
+        
+        <edge id="204" source="Vel'Koz" target="Rell" />
+        
+        <edge id="205" source="Vel'Koz" target="Lux" />
+        
+        <edge id="206" source="Vel'Koz" target="Zyra" />
+        
+        <edge id="207" source="Vel'Koz" target="Brand" />
+        
+        <edge id="208" source="Vel'Koz" target="Syndra" />
+        
+        <edge id="209" source="Vel'Koz" target="Varus" />
+        
+        <edge id="210" source="Vel'Koz" target="Viktor" />
+        
+        <edge id="211" source="Vel'Koz" target="Aatrox" />
+        
+        <edge id="212" source="Vel'Koz" target="Leona" />
+        
+        <edge id="213" source="Vel'Koz" target="Ziggs" />
+        
+        <edge id="214" source="Ashe" target="Heimerdinger" />
+        
+        <edge id="215" source="Ashe" target="Kayle" />
+        
+        <edge id="216" source="Ashe" target="Kindred" />
+        
+        <edge id="217" source="Ashe" target="Aphelios" />
+        
+        <edge id="218" source="Ashe" target="Taric" />
+        
+        <edge id="219" source="Ashe" target="Zyra" />
+        
+        <edge id="220" source="Ashe" target="Sett" />
+        
+        <edge id="221" source="Ashe" target="Varus" />
+        
+        <edge id="222" source="Ashe" target="Udyr" />
+        
+        <edge id="223" source="Ashe" target="Vayne" />
+        
+        <edge id="224" source="Katarina" target="Viego" />
+        
+        <edge id="225" source="Katarina" target="Viego" />
+        
+        <edge id="226" source="Katarina" target="Diana" />
+        
+        <edge id="227" source="Katarina" target="Draven" />
+        
+        <edge id="228" source="Katarina" target="Ryze" />
+        
+        <edge id="229" source="Katarina" target="Nocturne" />
+        
+        <edge id="230" source="Katarina" target="Hecarim" />
+        
+        <edge id="231" source="Katarina" target="Leblanc" />
+        
+        <edge id="232" source="Katarina" target="Thresh" />
+        
+        <edge id="233" source="Katarina" target="Viktor" />
+        
+        <edge id="234" source="Katarina" target="Kha'Zix" />
+        
+        <edge id="235" source="Katarina" target="Vayne" />
+        
+        <edge id="236" source="Katarina" target="Warwick" />
+        
+        <edge id="237" source="Lee Sin" target="Darius" />
+        
+        <edge id="238" source="Lee Sin" target="Viego" />
+        
+        <edge id="239" source="Lee Sin" target="Aphelios" />
+        
+        <edge id="240" source="Lee Sin" target="Diana" />
+        
+        <edge id="241" source="Lee Sin" target="Jax" />
+        
+        <edge id="242" source="Lee Sin" target="Morgana" />
+        
+        <edge id="243" source="Lee Sin" target="Nidalee" />
+        
+        <edge id="244" source="Lee Sin" target="Pantheon" />
+        
+        <edge id="245" source="Lee Sin" target="Yasuo" />
+        
+        <edge id="246" source="Lee Sin" target="Kennen" />
+        
+        <edge id="247" source="Lee Sin" target="Sejuani" />
+        
+        <edge id="248" source="Lee Sin" target="Trundle" />
+        
+        <edge id="249" source="Lee Sin" target="Udyr" />
+        
+        <edge id="250" source="Lee Sin" target="Vladimir" />
+        
+        <edge id="251" source="Lulu" target="Kindred" />
+        
+        <edge id="252" source="Lulu" target="Teemo" />
+        
+        <edge id="253" source="Lulu" target="Ryze" />
+        
+        <edge id="254" source="Lulu" target="Lux" />
+        
+        <edge id="255" source="Lulu" target="Morgana" />
+        
+        <edge id="256" source="Lulu" target="Kennen" />
+        
+        <edge id="257" source="Lulu" target="Kled" />
+        
+        <edge id="258" source="Lulu" target="Poppy" />
+        
+        <edge id="259" source="Lulu" target="Ziggs" />
+        
+        <edge id="260" source="Lux" target="Kayle" />
+        
+        <edge id="261" source="Lux" target="Kindred" />
+        
+        <edge id="262" source="Lux" target="Rell" />
+        
+        <edge id="263" source="Lux" target="Ryze" />
+        
+        <edge id="264" source="Lux" target="Vel'Koz" />
+        
+        <edge id="265" source="Lux" target="Lulu" />
+        
+        <edge id="266" source="Lux" target="Morgana" />
+        
+        <edge id="267" source="Lux" target="Syndra" />
+        
+        <edge id="268" source="Lux" target="Varus" />
+        
+        <edge id="269" source="Lux" target="Aatrox" />
+        
+        <edge id="270" source="Lux" target="Leona" />
+        
+        <edge id="271" source="Morgana" target="Darius" />
+        
+        <edge id="272" source="Morgana" target="Kindred" />
+        
+        <edge id="273" source="Morgana" target="Aphelios" />
+        
+        <edge id="274" source="Morgana" target="Diana" />
+        
+        <edge id="275" source="Morgana" target="Ryze" />
+        
+        <edge id="276" source="Morgana" target="Lee Sin" />
+        
+        <edge id="277" source="Morgana" target="Lulu" />
+        
+        <edge id="278" source="Morgana" target="Lux" />
+        
+        <edge id="279" source="Morgana" target="Yasuo" />
+        
+        <edge id="280" source="Morgana" target="Leblanc" />
+        
+        <edge id="281" source="Morgana" target="Sejuani" />
+        
+        <edge id="282" source="Morgana" target="Lissandra" />
+        
+        <edge id="283" source="Morgana" target="Vladimir" />
+        
+        <edge id="284" source="Nidalee" target="Garen" />
+        
+        <edge id="285" source="Nidalee" target="Viego" />
+        
+        <edge id="286" source="Nidalee" target="Jax" />
+        
+        <edge id="287" source="Nidalee" target="Karma" />
+        
+        <edge id="288" source="Nidalee" target="Lee Sin" />
+        
+        <edge id="289" source="Nidalee" target="Pantheon" />
+        
+        <edge id="290" source="Nidalee" target="Riven" />
+        
+        <edge id="291" source="Nidalee" target="Kennen" />
+        
+        <edge id="292" source="Nidalee" target="Soraka" />
+        
+        <edge id="293" source="Nidalee" target="Trundle" />
+        
+        <edge id="294" source="Nidalee" target="Gragas" />
+        
+        <edge id="295" source="Nidalee" target="Kha'Zix" />
+        
+        <edge id="296" source="Nidalee" target="Udyr" />
+        
+        <edge id="297" source="Nocturne" target="Viego" />
+        
+        <edge id="298" source="Nocturne" target="Volibear" />
+        
+        <edge id="299" source="Nocturne" target="Diana" />
+        
+        <edge id="300" source="Nocturne" target="Ivern" />
+        
+        <edge id="301" source="Nocturne" target="Katarina" />
+        
+        <edge id="302" source="Nocturne" target="Leblanc" />
+        
+        <edge id="303" source="Nocturne" target="Kha'Zix" />
+        
+        <edge id="304" source="Nunu" target="Volibear" />
+        
+        <edge id="305" source="Nunu" target="Ryze" />
+        
+        <edge id="306" source="Nunu" target="Brand" />
+        
+        <edge id="307" source="Nunu" target="Sett" />
+        
+        <edge id="308" source="Nunu" target="Gragas" />
+        
+        <edge id="309" source="Nunu" target="Kalista" />
+        
+        <edge id="310" source="Nunu" target="Warwick" />
+        
+        <edge id="311" source="Pantheon" target="Viego" />
+        
+        <edge id="312" source="Pantheon" target="Diana" />
+        
+        <edge id="313" source="Pantheon" target="Jax" />
+        
+        <edge id="314" source="Pantheon" target="Mordekaiser" />
+        
+        <edge id="315" source="Pantheon" target="Lee Sin" />
+        
+        <edge id="316" source="Pantheon" target="Nidalee" />
+        
+        <edge id="317" source="Pantheon" target="Kennen" />
+        
+        <edge id="318" source="Pantheon" target="Trundle" />
+        
+        <edge id="319" source="Pantheon" target="Trundle" />
+        
+        <edge id="320" source="Pantheon" target="Udyr" />
+        
+        <edge id="321" source="Riven" target="Garen" />
+        
+        <edge id="322" source="Riven" target="Kayle" />
+        
+        <edge id="323" source="Riven" target="Draven" />
+        
+        <edge id="324" source="Riven" target="Karma" />
+        
+        <edge id="325" source="Riven" target="Mordekaiser" />
+        
+        <edge id="326" source="Riven" target="Nidalee" />
+        
+        <edge id="327" source="Riven" target="Yasuo" />
+        
+        <edge id="328" source="Riven" target="Soraka" />
+        
+        <edge id="329" source="Riven" target="Aatrox" />
+        
+        <edge id="330" source="Riven" target="Gragas" />
+        
+        <edge id="331" source="Riven" target="Kalista" />
+        
+        <edge id="332" source="Riven" target="Kha'Zix" />
+        
+        <edge id="333" source="Yasuo" target="Darius" />
+        
+        <edge id="334" source="Yasuo" target="Kayle" />
+        
+        <edge id="335" source="Yasuo" target="Aphelios" />
+        
+        <edge id="336" source="Yasuo" target="Diana" />
+        
+        <edge id="337" source="Yasuo" target="Draven" />
+        
+        <edge id="338" source="Yasuo" target="Mordekaiser" />
+        
+        <edge id="339" source="Yasuo" target="Lee Sin" />
+        
+        <edge id="340" source="Yasuo" target="Morgana" />
+        
+        <edge id="341" source="Yasuo" target="Riven" />
+        
+        <edge id="342" source="Yasuo" target="Sejuani" />
+        
+        <edge id="343" source="Yasuo" target="Aatrox" />
+        
+        <edge id="344" source="Yasuo" target="Kalista" />
+        
+        <edge id="345" source="Yasuo" target="Vladimir" />
+        
+        <edge id="346" source="Zyra" target="Heimerdinger" />
+        
+        <edge id="347" source="Zyra" target="Vel'Koz" />
+        
+        <edge id="348" source="Zyra" target="Ashe" />
+        
+        <edge id="349" source="Zyra" target="Brand" />
+        
+        <edge id="350" source="Zyra" target="Sett" />
+        
+        <edge id="351" source="Zyra" target="Viktor" />
+        
+        <edge id="352" source="Zyra" target="Udyr" />
+        
+        <edge id="353" source="Zyra" target="Ziggs" />
+        
+        <edge id="354" source="Brand" target="Ryze" />
+        
+        <edge id="355" source="Brand" target="Vel'Koz" />
+        
+        <edge id="356" source="Brand" target="Nunu" />
+        
+        <edge id="357" source="Brand" target="Zyra" />
+        
+        <edge id="358" source="Brand" target="Viktor" />
+        
+        <edge id="359" source="Brand" target="Kalista" />
+        
+        <edge id="360" source="Brand" target="Ziggs" />
+        
+        <edge id="361" source="Hecarim" target="Viego" />
+        
+        <edge id="362" source="Hecarim" target="Draven" />
+        
+        <edge id="363" source="Hecarim" target="Rell" />
+        
+        <edge id="364" source="Hecarim" target="Ryze" />
+        
+        <edge id="365" source="Hecarim" target="Katarina" />
+        
+        <edge id="366" source="Hecarim" target="Sejuani" />
+        
+        <edge id="367" source="Hecarim" target="Thresh" />
+        
+        <edge id="368" source="Hecarim" target="Viktor" />
+        
+        <edge id="369" source="Hecarim" target="Kled" />
+        
+        <edge id="370" source="Hecarim" target="Vayne" />
+        
+        <edge id="371" source="Hecarim" target="Warwick" />
+        
+        <edge id="372" source="Kennen" target="Teemo" />
+        
+        <edge id="373" source="Kennen" target="Viego" />
+        
+        <edge id="374" source="Kennen" target="Jax" />
+        
+        <edge id="375" source="Kennen" target="Lee Sin" />
+        
+        <edge id="376" source="Kennen" target="Lulu" />
+        
+        <edge id="377" source="Kennen" target="Nidalee" />
+        
+        <edge id="378" source="Kennen" target="Pantheon" />
+        
+        <edge id="379" source="Kennen" target="Trundle" />
+        
+        <edge id="380" source="Kennen" target="Kled" />
+        
+        <edge id="381" source="Kennen" target="Poppy" />
+        
+        <edge id="382" source="Kennen" target="Udyr" />
+        
+        <edge id="383" source="Kennen" target="Ziggs" />
+        
+        <edge id="384" source="Leblanc" target="Viego" />
+        
+        <edge id="385" source="Leblanc" target="Diana" />
+        
+        <edge id="386" source="Leblanc" target="Katarina" />
+        
+        <edge id="387" source="Leblanc" target="Morgana" />
+        
+        <edge id="388" source="Leblanc" target="Nocturne" />
+        
+        <edge id="389" source="Leblanc" target="Kha'Zix" />
+        
+        <edge id="390" source="Leblanc" target="Lissandra" />
+        
+        <edge id="391" source="Nautilus" target="Darius" />
+        
+        <edge id="392" source="Nautilus" target="Garen" />
+        
+        <edge id="393" source="Nautilus" target="Jax" />
+        
+        <edge id="394" source="Nautilus" target="Rell" />
+        
+        <edge id="395" source="Nautilus" target="Taric" />
+        
+        <edge id="396" source="Nautilus" target="Thresh" />
+        
+        <edge id="397" source="Nautilus" target="Leona" />
+        
+        <edge id="398" source="Nautilus" target="Poppy" />
+        
+        <edge id="399" source="Sejuani" target="Darius" />
+        
+        <edge id="400" source="Sejuani" target="Aphelios" />
+        
+        <edge id="401" source="Sejuani" target="Diana" />
+        
+        <edge id="402" source="Sejuani" target="Rell" />
+        
+        <edge id="403" source="Sejuani" target="Lee Sin" />
+        
+        <edge id="404" source="Sejuani" target="Morgana" />
+        
+        <edge id="405" source="Sejuani" target="Yasuo" />
+        
+        <edge id="406" source="Sejuani" target="Hecarim" />
+        
+        <edge id="407" source="Sejuani" target="Kled" />
+        
+        <edge id="408" source="Sejuani" target="Vladimir" />
+        
+        <edge id="409" source="Sett" target="Heimerdinger" />
+        
+        <edge id="410" source="Sett" target="Volibear" />
+        
+        <edge id="411" source="Sett" target="Ashe" />
+        
+        <edge id="412" source="Sett" target="Nunu" />
+        
+        <edge id="413" source="Sett" target="Zyra" />
+        
+        <edge id="414" source="Sett" target="Gragas" />
+        
+        <edge id="415" source="Sett" target="Udyr" />
+        
+        <edge id="416" source="Sett" target="Warwick" />
+        
+        <edge id="417" source="Soraka" target="Garen" />
+        
+        <edge id="418" source="Soraka" target="Heimerdinger" />
+        
+        <edge id="419" source="Soraka" target="Ivern" />
+        
+        <edge id="420" source="Soraka" target="Karma" />
+        
+        <edge id="421" source="Soraka" target="Nidalee" />
+        
+        <edge id="422" source="Soraka" target="Riven" />
+        
+        <edge id="423" source="Soraka" target="Gragas" />
+        
+        <edge id="424" source="Soraka" target="Kha'Zix" />
+        
+        <edge id="425" source="Soraka" target="Lissandra" />
+        
+        <edge id="426" source="Soraka" target="Vladimir" />
+        
+        <edge id="427" source="Syndra" target="Kayle" />
+        
+        <edge id="428" source="Syndra" target="Teemo" />
+        
+        <edge id="429" source="Syndra" target="Ivern" />
+        
+        <edge id="430" source="Syndra" target="Karma" />
+        
+        <edge id="431" source="Syndra" target="Rell" />
+        
+        <edge id="432" source="Syndra" target="Vel'Koz" />
+        
+        <edge id="433" source="Syndra" target="Lux" />
+        
+        <edge id="434" source="Syndra" target="Varus" />
+        
+        <edge id="435" source="Syndra" target="Aatrox" />
+        
+        <edge id="436" source="Syndra" target="Leona" />
+        
+        <edge id="437" source="Thresh" target="Darius" />
+        
+        <edge id="438" source="Thresh" target="Garen" />
+        
+        <edge id="439" source="Thresh" target="Viego" />
+        
+        <edge id="440" source="Thresh" target="Draven" />
+        
+        <edge id="441" source="Thresh" target="Ryze" />
+        
+        <edge id="442" source="Thresh" target="Taric" />
+        
+        <edge id="443" source="Thresh" target="Katarina" />
+        
+        <edge id="444" source="Thresh" target="Hecarim" />
+        
+        <edge id="445" source="Thresh" target="Nautilus" />
+        
+        <edge id="446" source="Thresh" target="Viktor" />
+        
+        <edge id="447" source="Thresh" target="Leona" />
+        
+        <edge id="448" source="Thresh" target="Poppy" />
+        
+        <edge id="449" source="Thresh" target="Vayne" />
+        
+        <edge id="450" source="Thresh" target="Warwick" />
+        
+        <edge id="451" source="Trundle" target="Viego" />
+        
+        <edge id="452" source="Trundle" target="Diana" />
+        
+        <edge id="453" source="Trundle" target="Jax" />
+        
+        <edge id="454" source="Trundle" target="Mordekaiser" />
+        
+        <edge id="455" source="Trundle" target="Lee Sin" />
+        
+        <edge id="456" source="Trundle" target="Nidalee" />
+        
+        <edge id="457" source="Trundle" target="Pantheon" />
+        
+        <edge id="458" source="Trundle" target="Pantheon" />
+        
+        <edge id="459" source="Trundle" target="Kennen" />
+        
+        <edge id="460" source="Trundle" target="Udyr" />
+        
+        <edge id="461" source="Varus" target="Kayle" />
+        
+        <edge id="462" source="Varus" target="Kindred" />
+        
+        <edge id="463" source="Varus" target="Aphelios" />
+        
+        <edge id="464" source="Varus" target="Rell" />
+        
+        <edge id="465" source="Varus" target="Vel'Koz" />
+        
+        <edge id="466" source="Varus" target="Ashe" />
+        
+        <edge id="467" source="Varus" target="Lux" />
+        
+        <edge id="468" source="Varus" target="Syndra" />
+        
+        <edge id="469" source="Varus" target="Aatrox" />
+        
+        <edge id="470" source="Varus" target="Leona" />
+        
+        <edge id="471" source="Varus" target="Vayne" />
+        
+        <edge id="472" source="Viktor" target="Viego" />
+        
+        <edge id="473" source="Viktor" target="Draven" />
+        
+        <edge id="474" source="Viktor" target="Ryze" />
+        
+        <edge id="475" source="Viktor" target="Vel'Koz" />
+        
+        <edge id="476" source="Viktor" target="Katarina" />
+        
+        <edge id="477" source="Viktor" target="Zyra" />
+        
+        <edge id="478" source="Viktor" target="Brand" />
+        
+        <edge id="479" source="Viktor" target="Hecarim" />
+        
+        <edge id="480" source="Viktor" target="Thresh" />
+        
+        <edge id="481" source="Viktor" target="Vayne" />
+        
+        <edge id="482" source="Viktor" target="Warwick" />
+        
+        <edge id="483" source="Viktor" target="Ziggs" />
+        
+        <edge id="484" source="Aatrox" target="Kayle" />
+        
+        <edge id="485" source="Aatrox" target="Kayle" />
+        
+        <edge id="486" source="Aatrox" target="Draven" />
+        
+        <edge id="487" source="Aatrox" target="Mordekaiser" />
+        
+        <edge id="488" source="Aatrox" target="Rell" />
+        
+        <edge id="489" source="Aatrox" target="Vel'Koz" />
+        
+        <edge id="490" source="Aatrox" target="Lux" />
+        
+        <edge id="491" source="Aatrox" target="Riven" />
+        
+        <edge id="492" source="Aatrox" target="Yasuo" />
+        
+        <edge id="493" source="Aatrox" target="Syndra" />
+        
+        <edge id="494" source="Aatrox" target="Varus" />
+        
+        <edge id="495" source="Aatrox" target="Kalista" />
+        
+        <edge id="496" source="Aatrox" target="Leona" />
+        
+        <edge id="497" source="Gragas" target="Garen" />
+        
+        <edge id="498" source="Gragas" target="Volibear" />
+        
+        <edge id="499" source="Gragas" target="Karma" />
+        
+        <edge id="500" source="Gragas" target="Nidalee" />
+        
+        <edge id="501" source="Gragas" target="Nunu" />
+        
+        <edge id="502" source="Gragas" target="Riven" />
+        
+        <edge id="503" source="Gragas" target="Sett" />
+        
+        <edge id="504" source="Gragas" target="Soraka" />
+        
+        <edge id="505" source="Gragas" target="Kha'Zix" />
+        
+        <edge id="506" source="Gragas" target="Warwick" />
+        
+        <edge id="507" source="Kalista" target="Kayle" />
+        
+        <edge id="508" source="Kalista" target="Draven" />
+        
+        <edge id="509" source="Kalista" target="Mordekaiser" />
+        
+        <edge id="510" source="Kalista" target="Ryze" />
+        
+        <edge id="511" source="Kalista" target="Nunu" />
+        
+        <edge id="512" source="Kalista" target="Riven" />
+        
+        <edge id="513" source="Kalista" target="Yasuo" />
+        
+        <edge id="514" source="Kalista" target="Brand" />
+        
+        <edge id="515" source="Kalista" target="Aatrox" />
+        
+        <edge id="516" source="Kha'Zix" target="Garen" />
+        
+        <edge id="517" source="Kha'Zix" target="Viego" />
+        
+        <edge id="518" source="Kha'Zix" target="Diana" />
+        
+        <edge id="519" source="Kha'Zix" target="Karma" />
+        
+        <edge id="520" source="Kha'Zix" target="Katarina" />
+        
+        <edge id="521" source="Kha'Zix" target="Nidalee" />
+        
+        <edge id="522" source="Kha'Zix" target="Nocturne" />
+        
+        <edge id="523" source="Kha'Zix" target="Riven" />
+        
+        <edge id="524" source="Kha'Zix" target="Leblanc" />
+        
+        <edge id="525" source="Kha'Zix" target="Soraka" />
+        
+        <edge id="526" source="Kha'Zix" target="Gragas" />
+        
+        <edge id="527" source="Kled" target="Teemo" />
+        
+        <edge id="528" source="Kled" target="Rell" />
+        
+        <edge id="529" source="Kled" target="Lulu" />
+        
+        <edge id="530" source="Kled" target="Hecarim" />
+        
+        <edge id="531" source="Kled" target="Kennen" />
+        
+        <edge id="532" source="Kled" target="Sejuani" />
+        
+        <edge id="533" source="Kled" target="Poppy" />
+        
+        <edge id="534" source="Kled" target="Ziggs" />
+        
+        <edge id="535" source="Leona" target="Darius" />
+        
+        <edge id="536" source="Leona" target="Garen" />
+        
+        <edge id="537" source="Leona" target="Kayle" />
+        
+        <edge id="538" source="Leona" target="Rell" />
+        
+        <edge id="539" source="Leona" target="Taric" />
+        
+        <edge id="540" source="Leona" target="Vel'Koz" />
+        
+        <edge id="541" source="Leona" target="Lux" />
+        
+        <edge id="542" source="Leona" target="Nautilus" />
+        
+        <edge id="543" source="Leona" target="Syndra" />
+        
+        <edge id="544" source="Leona" target="Thresh" />
+        
+        <edge id="545" source="Leona" target="Varus" />
+        
+        <edge id="546" source="Leona" target="Aatrox" />
+        
+        <edge id="547" source="Leona" target="Poppy" />
+        
+        <edge id="548" source="Lissandra" target="Heimerdinger" />
+        
+        <edge id="549" source="Lissandra" target="Ivern" />
+        
+        <edge id="550" source="Lissandra" target="Morgana" />
+        
+        <edge id="551" source="Lissandra" target="Leblanc" />
+        
+        <edge id="552" source="Lissandra" target="Soraka" />
+        
+        <edge id="553" source="Lissandra" target="Vladimir" />
+        
+        <edge id="554" source="Poppy" target="Darius" />
+        
+        <edge id="555" source="Poppy" target="Garen" />
+        
+        <edge id="556" source="Poppy" target="Teemo" />
+        
+        <edge id="557" source="Poppy" target="Taric" />
+        
+        <edge id="558" source="Poppy" target="Lulu" />
+        
+        <edge id="559" source="Poppy" target="Kennen" />
+        
+        <edge id="560" source="Poppy" target="Nautilus" />
+        
+        <edge id="561" source="Poppy" target="Thresh" />
+        
+        <edge id="562" source="Poppy" target="Kled" />
+        
+        <edge id="563" source="Poppy" target="Leona" />
+        
+        <edge id="564" source="Poppy" target="Ziggs" />
+        
+        <edge id="565" source="Udyr" target="Heimerdinger" />
+        
+        <edge id="566" source="Udyr" target="Viego" />
+        
+        <edge id="567" source="Udyr" target="Jax" />
+        
+        <edge id="568" source="Udyr" target="Ashe" />
+        
+        <edge id="569" source="Udyr" target="Lee Sin" />
+        
+        <edge id="570" source="Udyr" target="Nidalee" />
+        
+        <edge id="571" source="Udyr" target="Pantheon" />
+        
+        <edge id="572" source="Udyr" target="Zyra" />
+        
+        <edge id="573" source="Udyr" target="Kennen" />
+        
+        <edge id="574" source="Udyr" target="Sett" />
+        
+        <edge id="575" source="Udyr" target="Trundle" />
+        
+        <edge id="576" source="Vayne" target="Kindred" />
+        
+        <edge id="577" source="Vayne" target="Viego" />
+        
+        <edge id="578" source="Vayne" target="Aphelios" />
+        
+        <edge id="579" source="Vayne" target="Draven" />
+        
+        <edge id="580" source="Vayne" target="Ryze" />
+        
+        <edge id="581" source="Vayne" target="Ashe" />
+        
+        <edge id="582" source="Vayne" target="Katarina" />
+        
+        <edge id="583" source="Vayne" target="Hecarim" />
+        
+        <edge id="584" source="Vayne" target="Thresh" />
+        
+        <edge id="585" source="Vayne" target="Varus" />
+        
+        <edge id="586" source="Vayne" target="Viktor" />
+        
+        <edge id="587" source="Vayne" target="Warwick" />
+        
+        <edge id="588" source="Vladimir" target="Darius" />
+        
+        <edge id="589" source="Vladimir" target="Heimerdinger" />
+        
+        <edge id="590" source="Vladimir" target="Aphelios" />
+        
+        <edge id="591" source="Vladimir" target="Diana" />
+        
+        <edge id="592" source="Vladimir" target="Ivern" />
+        
+        <edge id="593" source="Vladimir" target="Lee Sin" />
+        
+        <edge id="594" source="Vladimir" target="Morgana" />
+        
+        <edge id="595" source="Vladimir" target="Yasuo" />
+        
+        <edge id="596" source="Vladimir" target="Sejuani" />
+        
+        <edge id="597" source="Vladimir" target="Soraka" />
+        
+        <edge id="598" source="Vladimir" target="Lissandra" />
+        
+        <edge id="599" source="Warwick" target="Viego" />
+        
+        <edge id="600" source="Warwick" target="Volibear" />
+        
+        <edge id="601" source="Warwick" target="Draven" />
+        
+        <edge id="602" source="Warwick" target="Ryze" />
+        
+        <edge id="603" source="Warwick" target="Katarina" />
+        
+        <edge id="604" source="Warwick" target="Nunu" />
+        
+        <edge id="605" source="Warwick" target="Hecarim" />
+        
+        <edge id="606" source="Warwick" target="Sett" />
+        
+        <edge id="607" source="Warwick" target="Thresh" />
+        
+        <edge id="608" source="Warwick" target="Viktor" />
+        
+        <edge id="609" source="Warwick" target="Gragas" />
+        
+        <edge id="610" source="Warwick" target="Vayne" />
+        
+        <edge id="611" source="Ziggs" target="Teemo" />
+        
+        <edge id="612" source="Ziggs" target="Vel'Koz" />
+        
+        <edge id="613" source="Ziggs" target="Lulu" />
+        
+        <edge id="614" source="Ziggs" target="Zyra" />
+        
+        <edge id="615" source="Ziggs" target="Brand" />
+        
+        <edge id="616" source="Ziggs" target="Kennen" />
+        
+        <edge id="617" source="Ziggs" target="Viktor" />
+        
+        <edge id="618" source="Ziggs" target="Kled" />
+        
+        <edge id="619" source="Ziggs" target="Poppy" />
+        
+    </edges>
+   </graph>
+ </gexf>
